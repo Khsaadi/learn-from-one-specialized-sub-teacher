@@ -65,7 +65,8 @@ python run_squad_w_distillation.py --model_type distilbert --model_name_or_path 
 **Results**
 
 On the GLUE development set:
-![imgres](https://github.com/Khsaadi/learn-from-one-specialized-sub-teacher/assets/58224339/1f8d57e4-d884-4203-b3b4-494ec1a05b2c)
+![imgres](https://github.com/Khsaadi/learn-from-one-specialized-sub-teacher/assets/58224339/e5a83ecd-0948-4840-b1c2-b89598ce5a6a)
+
 
 
 **Cite**
