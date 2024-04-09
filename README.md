@@ -1,5 +1,5 @@
 ## Learn From One Specialized Sub-Teacher: One-to-One Mapping for Feature-Based Knowledge Distillation
-#### This repository contains the official implementation of the paper [Learn From One Specialized Sub-Teacher: One-to-One Mapping for Feature-Based Knowledge Distillation](https://aclanthology.org/2023.findings-emnlp.882.pdf) (EMNLP-Findings 2023).
+#### This repository contains the official implementation of the paper [Learn From One Specialized Sub-Teacher: One-to-One Mapping for Feature-Based Knowledge Distillation](https://aclanthology.org/2023.findings-emnlp.882.pdf) (EMNLP-Findings 2023). A short version of this paper was at first accepted at ICML-Neural-Compression workshop 2023.
 
 ![KD_camer_ready_version drawio](https://github.com/Khsaadi/learn-from-one-specialized-sub-teacher/assets/58224339/55cd0c29-f027-4580-90bb-7cefa60068ee)
 
